@@ -5,11 +5,11 @@
 
 ---
 
-- 🔭 I’m currently working on **mern stack**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **mern**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **mern stack**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **pramodperera185@gmail.com**
 
